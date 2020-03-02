@@ -11,7 +11,7 @@ This is my second commit in the edits branch.
 Add another change to the master branch.
 
 ```
-Give examples or not...
+Give examples..
 ```
 
 
